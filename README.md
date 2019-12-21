@@ -22,3 +22,23 @@ Our missions typically require between three and seven classroom periods and cou
 (iv)	Data recording and submission
 (v)	Formulate conclusions 
 (vi)	Evaluation
+
+OUR VISION
+Our STEM Innovation is a world where intellectual, entrepreneurial, and technical talent can be fostered for the prosperity of all. This prosperity is vital to developing nations’ future economic growth and depends on education systems that support economic development while helping all students to become innovators and inventors, self-reliant and logical thinkers, and technologically proficient problem solvers.
+Our Core Values
+	Hope
+	Persistence
+	Passion
+	Innovation
+	Leadership
+	Integrity
+	Equality
+
+Each of our core values defines who we are and how we work towards our mission, goal and vision.
+(1)	Hope: We believe that cultural stigmas, religious restrictions, and oppressive laws prevent girls and boys in many developing countries from obtaining the education they deserve. By sharing inspiring hope in these students, we give them hope to achieve their dreams.
+(2)	Passion: Our teachers and educators inspire students and act as their role models: the best solution to students’ education crisis. Let’s fuel a passion for learning in all the young women and men around the world and see the real change.
+(3)	Persistence: We support young people willing to work hard to achieve their dreams, willing to spend the extra time and energy to succeed and willing to risk the consequences of change. Persistence is the key to the continued progress of women in society.
+(4)	Integrity: We demonstrate integrity toward our commitment and vision by focusing all of our efforts on creating innovative solutions and projects that address two primary concerns: economic development and gender equality.
+(5)	Leadership: We believe it is important to encourage students in developing nations to take leadership roles as a part of their educational journey if they are to become leaders in their communities and in their chosen professions.
+(6)	Innovation: We use innovative multidisciplinary STEM learning tools such as STEM K-12 resources, the rocket kits, aircraft kits, Raspberry Pi kits, and others to foster student interest in STEM fields. “Aeroversity is where Innovation happens. The mobile App and the rocket and aircraft kits serve as the “vehicle” to reinforce Science, Technology, Engineering and Mathematics concepts as well as to teach valuable life skills such as teamwork, leadership, and innovative thinking.”
+(7)	Equality: We believe that empowering women through STEM education can abolish gender inequality. Our vision is of a world where women receive the same educational access and opportunities as men.
